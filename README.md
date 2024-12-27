@@ -1,1 +1,2 @@
-# Freight-Variation-Graph
+# Freight-Variation-Chart
+An Excel chart that dynamically displays the variation in freight costs for various products. The user selects the months for comparison, and the data is automatically retrieved to visually present the variations in a simple manner. This project was completed during my social service in the foreign trade department, aimed at analyzing the price behavior of export and import products. The data presented in the document are representative.
